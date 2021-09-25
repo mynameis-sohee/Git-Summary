@@ -1,1 +1,1 @@
-pull 동기화 test
+fetch 
